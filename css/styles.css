@@ -1,0 +1,28 @@
+
+.navbar .navbar-brand span {
+    color: rgba (255, 255, 255, .85);
+    font-size: 1.5rem;
+    padding-left: .5rem;
+}
+
+span1 {
+    font-size: 1rem;
+}
+
+.jumbotron {
+    background-image: url(../img/jumbo-bg.jpg);
+    background-size: cover;
+}
+
+.pt-25 {
+    padding-top: 100px;
+}
+
+.rocket-small {
+    height: 100px;
+}
+
+.rocket-large {
+    height: 200px;
+}
+
